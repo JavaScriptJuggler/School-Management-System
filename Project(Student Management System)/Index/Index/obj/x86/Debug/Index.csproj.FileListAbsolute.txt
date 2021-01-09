@@ -1,0 +1,18 @@
+C:\Users\Mr\Desktop\Project(Student Management System)\Index\Index\bin\Debug\Index.exe
+C:\Users\Mr\Desktop\Project(Student Management System)\Index\Index\bin\Debug\Index.pdb
+C:\Users\Mr\Desktop\Project(Student Management System)\Index\Index\obj\x86\Debug\Index.csprojResolveAssemblyReference.cache
+C:\Users\Mr\Desktop\Project(Student Management System)\Index\Index\obj\x86\Debug\MainWindow.baml
+C:\Users\Mr\Desktop\Project(Student Management System)\Index\Index\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Mr\Desktop\Project(Student Management System)\Index\Index\obj\x86\Debug\App.g.cs
+C:\Users\Mr\Desktop\Project(Student Management System)\Index\Index\obj\x86\Debug\Index_MarkupCompile.cache
+C:\Users\Mr\Desktop\Project(Student Management System)\Index\Index\obj\x86\Debug\Index.g.resources
+C:\Users\Mr\Desktop\Project(Student Management System)\Index\Index\obj\x86\Debug\Index.Properties.Resources.resources
+C:\Users\Mr\Desktop\Project(Student Management System)\Index\Index\obj\x86\Debug\Index.csproj.GenerateResource.Cache
+C:\Users\Mr\Desktop\Project(Student Management System)\Index\Index\obj\x86\Debug\Index.exe
+C:\Users\Mr\Desktop\Project(Student Management System)\Index\Index\obj\x86\Debug\Index.pdb
+C:\Users\Mr\Desktop\Project(Student Management System)\Index\Index\obj\x86\Debug\Main_page.g.cs
+C:\Users\Mr\Desktop\Project(Student Management System)\Index\Index\obj\x86\Debug\Index_MarkupCompile.lref
+C:\Users\Mr\Desktop\Project(Student Management System)\Index\Index\obj\x86\Debug\Main_page.baml
+C:\Users\Mr\Desktop\Project(Student Management System)\Index\Index\obj\x86\Debug\App.baml
+C:\Users\Mr\Desktop\Project(Student Management System)\Index\Index\obj\x86\Debug\Book List.g.cs
+C:\Users\Mr\Desktop\Project(Student Management System)\Index\Index\obj\x86\Debug\Book List.baml
